@@ -222,20 +222,18 @@ NODE_ENV=development
 
 ---
 
-If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
-
----
-
----
-
-## **Thank you for reviewing this project!**
-
----
-
 ## Notes
 
 - Paste this block at the top of your `README.md` to show badges and quick links.
 - Edit the `Project Title` and add a short project description, installation, usage, and contribution sections below as needed.
+
+---
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+**Thank you for reviewing this readme.md docs!**
 
 ---
 
