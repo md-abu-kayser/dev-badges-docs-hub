@@ -8,7 +8,7 @@ A structured and well-organized collection of modern development badges with off
 
 <!-- Demo Live Link -->
 
-[![Demo](https://img.shields.io/badge/project-Live%20Links-brightgreen)](https://md-abu-kayser.github.io/your-project-name/)
+<!-- [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/your-project-name/) -->
 
 <!-- HTML & CSS -->
 
