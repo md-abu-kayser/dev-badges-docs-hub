@@ -124,6 +124,10 @@ A structured and well-organized collection of modern development badges with off
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
 [![Prettier](https://img.shields.io/badge/Prettier-2B3A42?logo=prettier&logoColor=white)](https://prettier.io/docs/)
 
+<!-- Developers Google AI -->
+
+[![Google GenAI](https://img.shields.io/badge/google--genai-%5E1.19.0-orange)](https://developers.google.com/)
+
 <!-- Bundler -->
 
 [![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)](https://vite.dev/)
@@ -190,6 +194,7 @@ A structured and well-organized collection of modern development badges with off
 - Mailgun docs: [https://www.mailgun.com/](https://www.mailgun.com/)
 - Cloudflare docs: [https://www.cloudflare.com/](https://www.cloudflare.com/)
 - dotenv docs: [https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv)
+- Google genai docs: https://developers.google.com/
 - ESLint docs: [https://eslint.org/docs/latest/](https://eslint.org/docs/latest/)
 - Prettier docs: [https://prettier.io/docs/](https://prettier.io/docs/)
 - Vite docs: [https://vite.dev/](https://vite.dev/)
