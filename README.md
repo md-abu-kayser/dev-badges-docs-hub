@@ -73,6 +73,13 @@ A structured and well-organized collection of modern development badges with off
 [![Passport.js](https://img.shields.io/badge/Passport.js-4B2B8D?logo=passport.js&logoColor=white)](http://www.passportjs.org/)
 [![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)](https://auth0.com/)
 
+<!-- Additional security / auth / utility -->
+
+[![bcrypt](https://img.shields.io/badge/bcrypt-3.0.0-lightgrey)](https://www.npmjs.com/package/bcrypt)
+[![cors](https://img.shields.io/badge/cors-2.8.5-lightgrey)](https://www.npmjs.com/package/cors)
+[![zod](https://img.shields.io/badge/zod-3.0.0-lightgrey)](https://github.com/colinhacks/zod)
+[![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-8.5.1-lightgrey)](https://www.npmjs.com/package/jsonwebtoken)
+
 <!-- API & Docs -->
 
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
@@ -169,6 +176,10 @@ A structured and well-organized collection of modern development badges with off
 - Firebase docs: [https://firebase.google.com/docs](https://firebase.google.com/docs)
 - Passport.js docs: [http://www.passportjs.org/](http://www.passportjs.org/)
 - Auth0 docs: [https://auth0.com/](https://auth0.com/)
+- bcrypt docs: [https://www.npmjs.com/package/bcrypt](https://www.npmjs.com/package/bcrypt)
+- cors docs: [https://www.npmjs.com/package/cors](https://www.npmjs.com/package/cors)
+- zod docs: [https://zod.dev/](https://zod.dev/)
+- jsonwebtoken (JWT) docs: [https://www.npmjs.com/package/jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 - GraphQL docs: [https://graphql.org/](https://graphql.org/)
 - Apollo docs: [https://www.apollographql.com/](https://www.apollographql.com/)
 - Swagger / OpenAPI docs: [https://swagger.io/](https://swagger.io/)
