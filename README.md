@@ -50,7 +50,7 @@ A structured and well-organized collection of modern development badges with off
 <!-- nodemon / dev watcher -->
 
 [![nodemon](https://img.shields.io/badge/Dev%20Tool-nodemon-76D04B?logo=node.js\&logoColor=white)](https://nodemon.io/)
-[![nodemon on npm](https://img.shields.io/npm/nodemon?label=npm%20v&logo=npm\&logoColor=white)](https://www.npmjs.com/package/nodemon)
+[![nodemon on npm](https://img.shields.io/npm/v/nodemon?label=npm%20v&logo=npm\&logoColor=white)](https://www.npmjs.com/package/nodemon)
 
 <!-- npm / auth / utility -->
 
