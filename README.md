@@ -52,13 +52,16 @@ A structured and well-organized collection of modern development badges with off
 [![nodemon](https://img.shields.io/badge/Dev%20Tool-nodemon-76D04B?logo=node.js\&logoColor=white)](https://nodemon.io/)
 [![nodemon on npm](https://img.shields.io/npm/nodemon?label=npm%20v&logo=npm\&logoColor=white)](https://www.npmjs.com/package/nodemon)
 
-<!-- morgan / http logger -->
+<!-- npm / auth / utility -->
 
-[![morgan](https://img.shields.io/badge/morgan-npm-FF6B6B?\&logoColor=white)](https://www.npmjs.com/package/morgan)
+[![bcrypt](https://img.shields.io/badge/bcrypt-3.0.0-lightgrey)](https://www.npmjs.com/package/bcrypt)
+[![cors](https://img.shields.io/badge/cors-2.8.5-lightgrey)](https://www.npmjs.com/package/cors)
+[![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-8.5.1-lightgrey)](https://www.npmjs.com/package/jsonwebtoken)
 
-<!-- helmet / security headers -->
+<!-- security headers / http logger -->
 
 [![helmet](https://img.shields.io/badge/helmet-npm-0F172A?logo=shield\&logoColor=white)](https://www.npmjs.com/package/helmet)
+[![morgan](https://img.shields.io/badge/morgan-npm-FF6B6B?\&logoColor=white)](https://www.npmjs.com/package/morgan)
 
 <!-- winston / logger -->
 
@@ -96,12 +99,12 @@ A structured and well-organized collection of modern development badges with off
 [![Passport.js](https://img.shields.io/badge/Passport.js-4B2B8D?logo=passport.js&logoColor=white)](http://www.passportjs.org/)
 [![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)](https://auth0.com/)
 
-<!-- Additional security / auth / utility -->
+<!-- Joi / Zod / validation -->
 
-[![bcrypt](https://img.shields.io/badge/bcrypt-3.0.0-lightgrey)](https://www.npmjs.com/package/bcrypt)
-[![cors](https://img.shields.io/badge/cors-2.8.5-lightgrey)](https://www.npmjs.com/package/cors)
-[![zod](https://img.shields.io/badge/zod-3.0.0-lightgrey)](https://zod.dev/)
-[![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-8.5.1-lightgrey)](https://www.npmjs.com/package/jsonwebtoken)
+[![Joi](https://img.shields.io/badge/Validation-Joi-7C3AED?logo=javascript&logoColor=white)](https://joi.dev/)
+[![joi on npm](https://img.shields.io/npm/v/joi?label=npm%20v&logo=npm&logoColor=white)](https://www.npmjs.com/package/joi)
+[![Zod](https://img.shields.io/badge/Validation-Zod-6C63FF?logo=typescript&logoColor=white)](https://zod.dev/)
+[![zod on npm](https://img.shields.io/npm/v/zod?label=npm%20v&logo=npm&logoColor=white)](https://www.npmjs.com/package/zod)
 
 <!-- API & Docs -->
 
@@ -187,8 +190,11 @@ A structured and well-organized collection of modern development badges with off
 - Next.js docs: [https://nextjs.org/docs](https://nextjs.org/docs)
 - nodemon site: https://nodemon.io/
 - nodemon (npm): https://www.npmjs.com/package/nodemon
-- morgan (npm / docs): https://www.npmjs.com/package/morgan
+- bcrypt docs: [https://www.npmjs.com/package/bcrypt](https://www.npmjs.com/package/bcrypt)
+- cors docs: [https://www.npmjs.com/package/cors](https://www.npmjs.com/package/cors)
+- jsonwebtoken (JWT) docs: [https://www.npmjs.com/package/jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 - helmet (npm / docs): https://www.npmjs.com/package/helmet
+- morgan (npm / docs): https://www.npmjs.com/package/morgan
 - Winston (GitHub / main README & examples): https://github.com/winstonjs/winston 
 - Winston (npm page): https://www.npmjs.com/package/winston
 - PostgreSQL docs: [https://www.postgresql.org/](https://www.postgresql.org/)
@@ -207,10 +213,10 @@ A structured and well-organized collection of modern development badges with off
 - Firebase docs: [https://firebase.google.com/docs](https://firebase.google.com/docs)
 - Passport.js docs: [http://www.passportjs.org/](http://www.passportjs.org/)
 - Auth0 docs: [https://auth0.com/](https://auth0.com/)
-- bcrypt docs: [https://www.npmjs.com/package/bcrypt](https://www.npmjs.com/package/bcrypt)
-- cors docs: [https://www.npmjs.com/package/cors](https://www.npmjs.com/package/cors)
-- zod docs: [https://zod.dev/](https://zod.dev/)
-- jsonwebtoken (JWT) docs: [https://www.npmjs.com/package/jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- Joi docs: https://joi.dev/  
+- Joi gitHub: https://github.com/hapijs/joi
+- Zod docs: https://zod.dev/  
+- Zod gitHub: https://github.com/colinhacks/zod
 - GraphQL docs: [https://graphql.org/](https://graphql.org/)
 - Apollo docs: [https://www.apollographql.com/](https://www.apollographql.com/)
 - Swagger / OpenAPI docs: [https://swagger.io/](https://swagger.io/)
